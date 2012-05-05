@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>infoSim</Entry>
+    <Name>
+        <English>infoSim</English>
+        <eng-GB>infoSim</eng-GB>
+    </Name>
+    <Vendor>Selu</Vendor>
+    <Description>Sim Info</Description>
+    <Icons>
+        <MainMenu>infoSim_type4.png<Type1/>
+            <Type2/>
+            <Type3>infoSim_type3.png</Type3>
+            <Type4>infoSim_type4.png</Type4>
+            <Type5>infoSim_type5.png</Type5>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2/>
+            <Type3>Splash_type3.png</Type3>
+            <Type4>Splash_type4.png</Type4>
+            <Type5>Splash_type5.png</Type5>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+</Application>

@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<Manifest>
+    <Id>ik704y22s7</Id>
+    <Secret>7565FA259EB59376FD712957E3F52214</Secret>
+  <AppVersion>0.0.1</AppVersion>
+  <ManifestVersion>1.2</ManifestVersion>
+  <AppType>C++App</AppType>
+    <Privileges>
+        <Privilege>
+            <Name>TELEPHONY</Name>
+        </Privilege>
+        <Privilege>
+            <Name>TELEPHONY_PHONE_NUMBER</Name>
+        </Privilege>
+    </Privileges>
+    <DeviceProfile>
+        <APIVersion>2.0</APIVersion>
+    </DeviceProfile>
+</Manifest>
